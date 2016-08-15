@@ -7,4 +7,4 @@ function titleCase(str) {
   }
   return arr.join(" ");
 }
-titleCase("I'm a little tea pot");
+titleCase("It's a beautiful world");
